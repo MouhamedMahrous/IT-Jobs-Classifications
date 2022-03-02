@@ -1,4 +1,4 @@
-# IT-Jobs-Classifications
+# IT-Jobs-Classification
 This is an End To End Data Science Project (From Problem Statement and Data Gathering To Deployment). The project is all about classify IT-Jobs according to skills.
 
 # Problem statement:
@@ -15,3 +15,6 @@ the technologies.
 # Data Source:
 Chosen: Stack Overflow developers survey
 Link: https://insights.stackoverflow.com/survey/2020
+
+# You can Try the the project after deployment from the following Link:
+Link: https://roles-classifications.herokuapp.com/
